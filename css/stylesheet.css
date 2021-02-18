@@ -47,3 +47,35 @@ a[title="BCIT homepage"] {
 .special {
     color: green;
 }
+
+
+/* activities 4 */
+
+img {
+    float: left;
+}
+
+.wraper {
+    border: 1px solid red;
+}
+
+p.below {
+    clear: both;
+}
+
+
+/* activities 5 */
+
+.target {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 50px;
+    height: 50px;
+    background-color: forestgreen;
+}
+
+.container {
+    position: relative;
+    border: 2px gray solid;
+}
