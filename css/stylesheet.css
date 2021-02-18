@@ -11,6 +11,9 @@ h2+p {
     border-bottom: 1px solid grey;
 }
 
+
+/* activities 2 */
+
 a+ul a:link {
     color: green;
 }
@@ -30,4 +33,17 @@ a+ul>li:first-child::first-letter {
 
 a[title="BCIT homepage"] {
     background-color: yellow;
+}
+
+
+/* activities 3 */
+
+.main {
+    color: rebeccapurple;
+    border: 2px solid #ccc;
+    padding: 1em;
+}
+
+.special {
+    color: green;
 }
